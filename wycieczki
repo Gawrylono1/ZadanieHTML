@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Szkolne Koło Wolontariatu</title>
+</head>
+
+<body>
+<header>
+<img id="logo" src=https://www.bip.krakow.pl/zalaczniki/dokumenty/n/121155 width="150" height="180" alt="logo_szkoły">
+<br>
+<div class="info">
+<a href="http://www.x-lo.krakow.pl/www/art,18" target="_blank">Regulamin</a>
+<a href="http://www.x-lo.krakow.pl/www/art,50" target="_blank">Kontakt</a>
+</div>
+<h1>Szkolne Koło Wolontariatu</h1>
+<h2>im. Janusza Korczaka</h2>
+<div class="koniec"></div>
+</header>
+<footer>
+<div id="kontakt">
+Dane kontaktowe:<br>
+<strong>Szkolne Koło Wolontariatu<br>
+im. Janusza Korczaka</strong><br>
+Przewodniczący: Bartosz Ślusarczyk - przewodniczacy@szkola.pl<br>
+Opiekun: Karolina Jedynak - opiekun@szkola.pl<br>
+</div>
+<div>
+Adres szkoły:<br>
+<strong>X Liceum Ogólnokształcące</strong><br>
+ul. Wróblewskiego 8 <br>
+31-148 Kraków
+</div>
+<br>
+<br>
+<div class="koniec"></div>
+</footer>
+<div class="row">
+<strong>WYCIECZKI:</strong>
+<br>
+<img src="https://zawojka.pl/wp-content/uploads/2019/08/AdobeStock_222107563.jpg" width="640" height="480" alt="Beskidy"><br>
+<i>Wycieczka w Beskidy</i>
+<br>
+<br>
+<img src="https://d-art.ppstatic.pl/kadry/k/r/1/e9/66/5b0d2656c8957_o_full.jpg" width="640" height="480" alt="Wesole_miasteczko"><br>
+<i>Park rozrywki w Chorzowie</i>
+<br>
+<br>
+<img src="https://hydropolis.pl/wp-content/uploads/2019/02/BTW_PHOTOGRAPHERS_MAZIARZ_RAJTER-2067.jpg" width="640" height="480" alt="Hydropolis"><br>
+<i>Hydropolis - Wrocław</i>
+</div>
+
+
+
+
+
+</body>
+</html>
